@@ -36,4 +36,3 @@ while True:
 print("User wins: ", user_wins)
 print("computer wins: ",computer_wins)
 print("GOODBYE!")
-  
